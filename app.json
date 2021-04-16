@@ -1,4 +1,6 @@
 {
+  "name": "Demo App",
+  "displayName": "Demo-App",
   "expo": {
     "name": "sampleLocalAuthentication",
     "slug": "sampleLocalAuthentication",
